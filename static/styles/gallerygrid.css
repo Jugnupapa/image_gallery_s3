@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 0.8em;
+  color: grey;
+  line-height: 1.4;
+}
+
+.grid {
+  display: grid;
+  grid-gap: 1em;
+  padding: 2em 1em;
+  background: white;
+}
