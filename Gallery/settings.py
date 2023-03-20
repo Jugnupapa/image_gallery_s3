@@ -137,8 +137,8 @@ DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
 STATICFILES_STORAGE = 'storages.backends.s3boto3.S3StaticStorage'
 
-AWS_ACCESS_KEY_ID = "AKIA5BC54PQHKQU6E2GV"
+AWS_ACCESS_KEY_ID = "AKIA5BC54PQHDWDNROBY"
 
-AWS_SECRET_ACCESS_KEY = "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"
+AWS_SECRET_ACCESS_KEY = "CRZX4lenwVdRCnrWhq+VqzQENguMrErm/m1/7t7L"
 
-AWS_STORAGE_BUCKET_NAME = "my-staticfiles-bucket-django"
+AWS_STORAGE_BUCKET_NAME = "test-django-my-bucket"
